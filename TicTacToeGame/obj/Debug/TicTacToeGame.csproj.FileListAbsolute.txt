@@ -1,0 +1,11 @@
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csprojAssemblyReference.cache
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.GameMainForm.resources
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+C:\Users\orçun\Desktop\YzmSinamaOdev\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.NewPlayerForm.resources
